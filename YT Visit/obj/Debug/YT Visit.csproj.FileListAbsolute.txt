@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\YT Visit\YT Visit\bin\Debug\YT Visit.exe.config
+C:\Users\admin\source\repos\YT Visit\YT Visit\bin\Debug\YT Visit.exe
+C:\Users\admin\source\repos\YT Visit\YT Visit\bin\Debug\YT Visit.pdb
+C:\Users\admin\source\repos\YT Visit\YT Visit\obj\Debug\YT Visit.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\YT Visit\YT Visit\obj\Debug\YT_Visit.Form1.resources
+C:\Users\admin\source\repos\YT Visit\YT Visit\obj\Debug\YT_Visit.Properties.Resources.resources
+C:\Users\admin\source\repos\YT Visit\YT Visit\obj\Debug\YT Visit.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\YT Visit\YT Visit\obj\Debug\YT Visit.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\YT Visit\YT Visit\obj\Debug\YT Visit.exe
+C:\Users\admin\source\repos\YT Visit\YT Visit\obj\Debug\YT Visit.pdb
